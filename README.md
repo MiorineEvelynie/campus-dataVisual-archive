@@ -19,3 +19,9 @@ The analysis is separated into two coordinated dashboards to avoid cognitive ove
 ## View the Dashboard
 👉 [Explore the Interactive Tableau Dashboard Here]
 (https://public.tableau.com/app/profile/herrick.fabian/viz/Datvis_revisi2/HighVolumeThinMarginsSalesBelowMMRThreatenProfitabilityinKeyMonths?publish=yes)
+
+## Team & Contributions
+This project was collaboratively developed by:
+*   **Leonardo:** Presentation (PPT) and Report Creation.
+*   **Herrick Fabian:** Report Creation and Data Processing.
+*   **Raymond Widjaja:** Dashboard Creation.
