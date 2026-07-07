@@ -17,4 +17,5 @@ The analysis is separated into two coordinated dashboards to avoid cognitive ove
 *   **Value Retention:** Prime condition vehicles consistently maintain better resale value over time compared to lower condition tiers.
 
 ## View the Dashboard
-👉 [Explore the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/herrick.fabian/viz/Datvisrevisi2/HighVolumeThinMarginsSalesBelowMMRThreatenProfitabilityinKeyMonths?publish=yes)
+👉 [Explore the Interactive Tableau Dashboard Here]
+(https://app.powerbi.com/groups/me/reports/6a2395c6-68ae-45f0-b424-41979f34ef77/befec9c6a644b0c43bf7?experience=power-bi)
