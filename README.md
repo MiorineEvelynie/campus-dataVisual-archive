@@ -3,6 +3,10 @@
 ## Overview
 A tableau visual analytics project that is meant to help auction managers and pricing analysts in the automobile sector. The project will analyze the sales performance of 446,806 cars between January and July 2015 in order to uncover pricing inefficiencies, as well as compare the selling price with MMR valuations.
 
+## Dataset
+The data used in this analysis consists of 446,806 vehicle sales records from January to July 2015. It includes key attributes such as selling prices, Manheim Market Report (MMR) valuations, odometer readings, vehicle conditions, and car brands. 
+* [dataset_name.csv](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
+
 ## Dashboards Overview
 The analysis is separated into two coordinated dashboards to avoid cognitive overload and provide deep analytical insights:
 
